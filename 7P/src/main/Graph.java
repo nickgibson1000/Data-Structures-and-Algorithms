@@ -338,7 +338,6 @@ public class Graph<T extends Comparable<T>> {
             
         }
 
-        //// Assuming getEdges() gives you a list of all edges in the MST
         //Collection<Edge> mstEdges = MST.getEdges(); 
         //// Print each edge in the MST
         //for (Edge edge : mstEdges) {
